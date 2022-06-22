@@ -11,7 +11,7 @@ package entornos3t2;
  */
 public class Entornos3T2 {
 
-    private int numRamas;
+    private int numRamas1;
     private String ramaPrincipal;
     private String ramaEvolucionada;
     
